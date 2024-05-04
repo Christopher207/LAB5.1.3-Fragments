@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LAB5.1.3-Fragments</string>
+    <string name="title_home">Principal</string>
+    <string name="title_dashboard">Registro</string>
+    <string name="title_notifications">Musica</string>
+    <string name="navPrincipalFragmentosEnAndroid">Fragmentos en Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EnteryourFullName">Enter your Full Name</string>
+    <string name="EnterEmail">Enter your email</string>
+    <string name="required">Required</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Others">Others</string>
+    <string name="DriverLicense">Driver License</string>
+    <string name="HaveaCar">Have a car?</string>
+    <string name="btnSave">Save</string>
+    <string-array name="CountryArray">
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Uruguay</item>
+        <item>Colombia</item>
+        <item>Perú</item>
+        <item>Venezuela</item>
+        <item>Chile</item>
+        <item>Bolivia</item>
+    </string-array>
+</resources>
